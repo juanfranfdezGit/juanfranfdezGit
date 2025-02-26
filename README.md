@@ -1,5 +1,5 @@
-## Hello there! 👋
-## I'm Juan Francisco Romero Fdez
+<h1 align="center"><b>Hello there! 👋</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center"><b>I'm Juan Francisco Romero Fdez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <!--
 **juanfranfdezGit/juanfranfdezGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
