@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hello there! 👋</b></h1>
 <h2 align="center"><b>I'm Juan Francisco Romero Fdez</b></h2>
+<h2 align="center"><b>Full Stack Developer</b></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
