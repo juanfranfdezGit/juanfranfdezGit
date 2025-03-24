@@ -9,14 +9,15 @@ I’m passionate about exploring new technologies and creating innovative softwa
 - ✍️ Feel free to reach out via [email](mailto:jfranromfdez@gmail.com) if you want to collaborate or chat about tech!
 
 ### 🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript, Python, C#
-- **Frontend:** React, Angular, HTML, CSS, TailwindCSS
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Cloud:** AWS, Azure, Firebase
+- **Languages:** JavaScript, TypeScript, Python, C#, Java, PHP
+- **Frontend:** React, Angular, HTML, CSS, SASS, TailwindCSS
+- **Backend:** Node.js, Express, Java, PHP
+- **Databases:** MySQL, MongoDB
+- **Cloud & Hosting:** AWS, Vercel, Firebase (Free Databases)
 - **Version Control:** Git, GitHub, GitLab
-- **Others:** Docker, Kubernetes, REST APIs, GraphQL
-- 
+- **Containers & Virtualization:** Docker
+- **APIs:** RESTful APIs
+  
 ### 📬 Contact
 - 📧 Email me: [jfranromfdez@gmail.com](mailto:jfranromfdez@gmail.com)
 - 💼 LinkedIn: [Juan Francisco Romero Fernandez](https://www.linkedin.com/in/juanfrromero)
