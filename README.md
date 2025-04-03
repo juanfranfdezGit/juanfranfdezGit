@@ -19,6 +19,7 @@ I’m passionate about exploring new technologies and creating innovative softwa
 - **APIs:** RESTful APIs
   
 ### 📬 Contact
+- 👨🏻‍💻 Personal Page: [Juan Francisco Romero Fdez](https://jfrfdezpage.vercel.app/)
 - 📧 Email me: [jfranromfdez@gmail.com](mailto:jfranromfdez@gmail.com)
 - 💼 LinkedIn: [Juan Francisco Romero Fernandez](https://www.linkedin.com/in/juanfrromero)
 
