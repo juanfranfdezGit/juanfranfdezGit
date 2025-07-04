@@ -9,7 +9,7 @@ I’m passionate about exploring new technologies and creating innovative softwa
 - ✍️ Feel free to reach out via [email](mailto:jfranromfdez@gmail.com) if you want to collaborate or chat about tech!
 
 ### 🛠️ Technologies & Tools
-- **Languages:** JavaScript, TypeScript, Python, C#, Java, PHP
+- **Languages:** JavaScript, TypeScript, Python, Java, PHP
 - **Frontend:** React, Angular, HTML, CSS, SASS, TailwindCSS
 - **Backend:** Node.js, Express, Java, PHP
 - **Databases:** MySQL, MongoDB
